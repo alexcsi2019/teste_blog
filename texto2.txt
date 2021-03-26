@@ -1,2 +1,3 @@
 TEXTO 2
 Alterando texto 2
+TERCEIRO TEXTO
